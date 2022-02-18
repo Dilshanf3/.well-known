@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+    "namespace": "android_app",
+    "package_name": "com.dialog.superapp",
+    "sha256_cert_fingerprints":
+    ["35:F9:AA:A6:67:76:DD:8D:04:0A:F5:68:06:24:99:7B:E7:55:D1:92:B1:03:23:FB:20:2F:C5:AE:FE:EE:A9:9D"]
+    }
+    }]
